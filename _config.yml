@@ -1,0 +1,19 @@
+title: Anna Ullersted Rasmussen
+description: Computational Design x Structural Engineering
+theme: minima
+show_excerpts: true
+
+author:
+  name: Anna Ullersted Rasmussen
+
+minima:
+  skin: classic
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" }
+    - { platform: github, user_url: "https://github.com/YOUR-GITHUB-USERNAME" }
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
+
+plugins:
+  - jekyll-feed
