@@ -2,10 +2,10 @@
 layout: post
 title: "Dråbebroen — Parametric Bridge Geometry"
 date: 2026-08-30
-image: /assets/draabebroen/cover.jpg
+image: /photos/Dråbebroen 2.jpg
 ---
 
-![cover](/assets/draabebroen/cover.jpg)
+![cover](/photos/Dråbebro 1.jpg)
 
 ## The problem
 
