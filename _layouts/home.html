@@ -14,11 +14,6 @@ layout: default
     <ul class="post-list">
       {% for post in site.posts %}
       <li>
-        {% if post.image %}
-          <a href="{{ post.url | relative_url }}">
-            <img class="post-thumbnail" src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
-          </a>
-        {% endif %}
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -28,6 +23,11 @@ layout: default
         </h3>
         {% if site.show_excerpts %}
           {{ post.excerpt }}
+        {% endif %}
+        {% if post.image %}
+          <a href="{{ post.url | relative_url }}">
+            <img class="post-thumbnail" src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">
+          </a>
         {% endif %}
       </li>
       {% endfor %}
