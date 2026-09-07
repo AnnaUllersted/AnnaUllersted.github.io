@@ -8,6 +8,6 @@ I'm a bridge engineer and computational designer at Ramboll (since 2021, MSc Str
 
 I serve as the second chair of the Computational Design Network Denmark (CDND).
 
-I'm interested in tools that sit at the intersection of structural engineering and computational design - moving structural engineering software from repetitive manual analysis toward parametric, automated, and interactive workflows.
+I'm interested in tools that sit at the intersection of structural engineering and computational design - moving structural engineering software from repetitive manual analysis toward parametric, automated, and interactive workflows. 
 
-**Contact:** [your.email@example.com](mailto:your.email@example.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [CV](/assets/Anna_Ullersted_Rasmussen_CV.pdf)
+**Contact:** [anna.ullersted@gmail.com](mailto:anna.ullersted@gmail.com) · [LinkedIn](linkedin.com/in/annaullerstedrasmussen) · [CV](/assets/Anna_Ullersted_Rasmussen_CV.pdf)
