@@ -2,6 +2,7 @@
 layout: post
 title: "Productized Bridges - an AI Surrogate Model for Structural Design"
 date: 2025-04-10
+highlight: 3
 image: /assets/productized-bridges/shapediver-app.png
 excerpt: "Turning a parametric FE model into training data for a machine learning surrogate, then shipping it as a web app that returns a design in seconds instead of a full FE run."
 ---
@@ -10,7 +11,7 @@ A development project exploring whether a parametric FE model could be turned in
 
 ## The problem
 
-For design of culverts the designprocess is parametrized using the culvert tool. Every design variant still requires a real FE run and the analysis can only be handled by a professional. For quick sizing, early-stage iteration, or a self-serve tool for non-experts, waiting on a full analysis each time is a bottleneck.
+For design of culverts the design process is parametrized using the culvert tool. Every design variant still requires a real FE run and the analysis can only be handled by a professional. For quick sizing, early-stage iteration, or a self-serve tool for non-experts, waiting on a full analysis each time is a bottleneck.
 
 ## What I built
 
@@ -29,7 +30,7 @@ An AI/ML pipeline that learns to approximate the FE model's output directly from
 
 ## The result
 
-A design tool where changing a slider returns a predicted design including reinforcement layout immediatelt. 
+A design tool where changing a slider returns a predicted design including reinforcement layout immediately. 
 
 ![ShapeDiver app: sliders for tunnel geometry and the resulting required reinforcement](/assets/productized-bridges/shapediver-app.png)
 *Adjust the geometry, get the required reinforcement back immediately.*

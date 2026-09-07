@@ -2,6 +2,7 @@
 layout: post
 title: "Structural Design Optimization with a Stock of Naturally Shaped Oak Logs"
 date: 2020-01-25
+highlight: 2
 image: /assets/oak-log-optimization/thumbnail.png
 excerpt: "My master's thesis: a genetic algorithm that assigns naturally curved oak logs from a limited stock to a structural topology, balancing structural stiffness against architectural intent."
 ---
