@@ -2,6 +2,7 @@
 layout: post
 title: "E6 Bridges - Grasshopper-to-SOFiSTiK Automation"
 date: 2025-11-20
+highlight: 1
 image: /assets/e6/k52-sofistik.png
 excerpt: "A Grasshopper tool that turns a handful of bridge parameters directly into SOFiSTiK structural elements and loads — reused across three bridges on a Norwegian motorway."
 ---

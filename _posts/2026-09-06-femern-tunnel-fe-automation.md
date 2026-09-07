@@ -13,6 +13,8 @@ A project the scale of the Fehmarnsund immersed tunnel involves many structurall
 
 I work with a global beam model in SOFiSTiK automating the creation of several load cases. I collaborate with other teams and help coordinate the Single-Point-Of-Truth approach used on the project. 
 
+![Pipeline: segment parameters flow from a single point of truth through Python-generated SOFiSTiK models (FE model, loads, reinforcement design) into Python postprocessing](/assets/femern/pipeline-diagram.svg)
+
 ## The result
 
 Models that share the same underlying logic are generated the same way every time, which cuts down the manual modelling effort per segment and reduces the risk of one-off mistakes and differences that can occur when  modelling one by one. 
@@ -20,5 +22,3 @@ Models that share the same underlying logic are generated the same way every tim
 ## Tools
 
 Python · SOFiSTiK · Git
-
-*Note: this write-up covers my own tooling and approach only — no client drawings, load data, or other project-specific deliverables.*
