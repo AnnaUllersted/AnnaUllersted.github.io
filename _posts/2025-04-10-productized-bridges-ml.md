@@ -6,8 +6,6 @@ image: /assets/productized-bridges/shapediver-app.png
 excerpt: "Turning a parametric FE model into training data for a machine learning surrogate, then shipping it as a web app that returns a design in seconds instead of a full FE run."
 ---
 
-![ShapeDiver web app showing tunnel geometry sliders and predicted reinforcement](/assets/productized-bridges/shapediver-app.png)
-
 A development project exploring whether a parametric FE model could be turned into something faster: instead of running a full finite element analysis for every design variant, train a machine learning model to predict the result directly. 
 
 ## The problem
