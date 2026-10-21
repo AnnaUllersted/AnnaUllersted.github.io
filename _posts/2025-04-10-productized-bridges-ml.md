@@ -2,7 +2,6 @@
 layout: post
 title: "Productized Bridges - an AI Surrogate Model for Structural Design"
 date: 2025-04-10
-highlight: 3
 image: /assets/productized-bridges/shapediver-app.png
 excerpt: "Turning a parametric FE model into training data for a machine learning surrogate, then shipping it as a web app that returns a design in seconds instead of a full FE run."
 ---
