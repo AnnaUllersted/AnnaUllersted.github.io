@@ -6,7 +6,9 @@ permalink: /about/
 
 I'm a bridge engineer and computational designer at Ramboll (since 2021, MSc Structural Engineering, Aarhus University), working on pedestrian and larger prestressed steel and concrete bridges. Alongside standard design work, I build software tools that automate structural engineering workflows - from parametric finite element models to Rhino/Grasshopper-based generation of complex bridge geometry.
 
-I'm second chair of the Computational Design Network Denmark (CDND), a network for computational design in the Danish AEC industry. At Ramboll, I've organised hackathons both internally and together with clients, bringing engineers and clients together to prototype computational solutions to real project challenges.
+I'm second chair of the Computational Design Network Denmark (CDND), a non-profit association dedicated to advancing knowledge, fostering collaboration, and driving innovation in computational design, automation, Building Information Modeling (BIM), Artificial Intelligence (AI), and digital fabrication within the Architecture, Engineering, Construction & Operation (AECO) industry. 
+
+At Ramboll, I've organised hackathons both internally and together with clients, bringing engineers and clients together to prototype computational solutions to real project challenges.
 
 I'm interested in tools that sit at the intersection of structural engineering and computational design - moving structural engineering software from repetitive manual analysis toward parametric, automated, and interactive workflows. 
 
