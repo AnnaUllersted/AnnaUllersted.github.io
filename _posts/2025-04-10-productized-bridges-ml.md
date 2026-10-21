@@ -24,7 +24,7 @@ An AI/ML pipeline that learns to approximate the FE model's output directly from
 
 **Feature correlation and processing.** Before training, the input and output features were checked for correlation to understand which parameters actually drive the design values, and the data was cleaned, transformed, and augmented.
 
-**Model development.** First multiple ML model types were tested against the data, then identifying their limitations, deriving additional features, and tuning the most suitable model with more advanced techniques until it worked as a reliable surrogate for the FE analysis. (This part was handled mainly by teammembers)
+**Model development.** First multiple ML model types were tested against the data, then identifying their limitations, deriving additional features, and tuning the most suitable model with more advanced techniques until it worked as a reliable surrogate for the FE analysis. (This part was handled mainly by team members)
 
 **Shipping it as a tool.** The trained model is live behind a Shapediver web app. A Grasshopper script generates the geometry, Python scripts call the surrogate model (hosted on an Azure server) and iterate over reinforcement configurations to validate a layout and finally delivers design results in the app. 
 
