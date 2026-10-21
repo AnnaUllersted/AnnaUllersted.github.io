@@ -10,21 +10,9 @@ layout: default
   {{ content }}
 
   {% if site.posts.size > 0 %}
-    {% assign highlighted_posts = site.posts | where_exp: "post", "post.highlight" | sort: "highlight" %}
-    {% assign other_posts = site.posts | where_exp: "post", "post.highlight == nil" %}
-
-    {% if highlighted_posts.size > 0 %}
-      <h2 class="post-list-heading">Highlights</h2>
-      <ul class="post-list">
-        {% for post in highlighted_posts %}
-          {% include post-card.html post=post %}
-        {% endfor %}
-      </ul>
-    {% endif %}
-
     <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2>
     <ul class="post-list">
-      {% for post in other_posts %}
+      {% for post in site.posts %}
         {% include post-card.html post=post %}
       {% endfor %}
     </ul>
